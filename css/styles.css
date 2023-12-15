@@ -151,9 +151,23 @@ button {
 .mobile-menu-link {
   padding-top: 40px;
 }
+.child-studio {
+  color: #404bbf;
+}
 .mobile-menu-contact-adress-item {
   padding-top: 24px;
   padding-left: 16px;
+}
+.mobile-menu-contact-adress-link {
+  color: #4d5ae5;
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+}
+.child-mail {
+  color: #434455;
 }
 .mobile-menu-contact-adress {
   padding-top: 168px;
@@ -161,6 +175,12 @@ button {
 .mobile-menu-social {
   padding-top: 48px;
 }
+.mobile-menu-social-list {
+  display: flex;
+  padding-left: 16px;
+  gap: 40px;
+}
+
 /*==========MOBILE HEADER STYLES==========*/
 
 @media screen and (min-width: 768px) {

@@ -911,13 +911,3 @@ input:focus + svg {
   width: 16px;
   height: 16px;
 }
-
-/* <div class="field-top">
-              <input
-                class="user-data"
-                id="Comment"
-                name="user-comment"
-                type="text"
-              />
-            </div>
-*/
